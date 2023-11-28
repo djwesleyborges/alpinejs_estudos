@@ -1,0 +1,61 @@
+{
+  "todos": [
+    {
+      "task": "Um",
+      "id": 1
+    },
+    {
+      "task": "Dois",
+      "id": 2
+    },
+    {
+      "task": "Três",
+      "id": 3
+    },
+    {
+      "task": "Quatro",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "title": "Refrigerante",
+      "price": 6.35,
+      "id": 1
+    },
+    {
+      "title": "Suco de laranja",
+      "price": 8.99,
+      "id": 2
+    },
+    {
+      "title": "Caldo de cana",
+      "price": 5,
+      "id": 3
+    },
+    {
+      "title": "Pastel",
+      "price": 7,
+      "id": 4
+    },
+    {
+      "title": "Coxinha",
+      "price": 5.5,
+      "id": 5
+    }
+  ],
+  "sales": [
+    {
+      "product": 1,
+      "quantity": 2,
+      "price": 6.35,
+      "id": 1
+    },
+    {
+      "product": 2,
+      "quantity": 5,
+      "price": 8.99,
+      "id": 2
+    }
+  ]
+}
