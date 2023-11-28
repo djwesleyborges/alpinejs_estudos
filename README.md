@@ -1,5 +1,8 @@
 # alpinejs_estudos
 
+## Live link abaixo
+https://wesleyborgesalpineestudos.netlify.app
+
 Todo list made with [Alpine.js](https://alpinejs.dev/)
 
 ![https://alpinejs.dev/alpine_long.svg](https://alpinejs.dev/alpine_long.svg)
